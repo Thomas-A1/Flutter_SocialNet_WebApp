@@ -34,6 +34,6 @@ To explore the functionality of POST IT, follow these links:
 
 - **Web Application:** [POST IT WebApp](https://social-network-9cbc8.web.app/#/splash)
 
-We hope you enjoy using **POST IT** to connect with your peers at Ashesi University. For any questions, issues, or feedback, please reach out to [Your Name/Contact Information].
+We hope you enjoy using **POST IT** to connect with your peers at Ashesi University. For any questions, issues, or feedback, please reach out to [Thomas Quarshie/Contact Information: thomasquarshie36@gmail.com].
 
 Thank you for being a part of the Ashesi student community on POST IT!
