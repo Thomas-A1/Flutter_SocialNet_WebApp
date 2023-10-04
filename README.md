@@ -24,7 +24,9 @@ To explore the functionality of POST IT, follow these links:
 
 - **API:** The backend API for POST IT can be found in the `Ashesi_Network` folder.
 
-- **Web Application:** The front-end web application developed using Flutter is located in the `final_project2` folder. Please note that the hosting on Google Cloud has expired, inhibiting the application's functionality. However, you can view the API in the folder.
+- **Web Application:** The front-end web application developed using Flutter is located in the `final_project2` folder.
+
+<div style="color:red;">**Disclaimer:** Please bear in mind that because I used free services to host my API and flutter web app on Google Cloud, there is a high probability that you won't be able to access the API on Google Cloud.</div>
 
 ## Live Demo
 
@@ -32,9 +34,6 @@ To explore the functionality of POST IT, follow these links:
 
 - **Web Application:** [POST IT WebApp](https://social-network-9cbc8.web.app/#/splash)
 
-- Disclaimer: Please bear in mind that because I used free services to host my API and flutter web app on Google cloud, there is a high probability that you wont be able to access the API on Google cloud. However, you can find all the API develiopments and flutter web app in the ashesi_network and final_project2 directory respectively.
-  
 We hope you enjoy using **POST IT** to connect with your peers at Ashesi University. For any questions, issues, or feedback, please reach out to [Your Name/Contact Information].
 
 Thank you for being a part of the Ashesi student community on POST IT!
-
